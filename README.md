@@ -18,3 +18,10 @@ Incluye una imagen de ejemplo en `img/vista-previa.png`. Para ver la página loc
 ---
 
 ## Estructura del proyecto
+mi-presentacion-personal/
+├─ index.html
+├─ img/
+│ ├─ cafh.jpeg
+│ ├─ vista-previa.png
+│ └─ imagen.jpeg
+└─ README.md
